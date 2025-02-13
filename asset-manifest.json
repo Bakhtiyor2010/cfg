@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/cambridge-14/static/css/main.cc3788b2.css",
+    "main.js": "/cambridge-14/static/js/main.dfb11f08.js",
+    "static/media/audio2.4.mp3": "/cambridge-14/static/media/audio2.4.ba94f6d9ceeee020a9e0.mp3",
+    "static/media/audio4.4.mp3": "/cambridge-14/static/media/audio4.4.e14f382ebb3665780876.mp3",
+    "static/media/audio2.1.mp3": "/cambridge-14/static/media/audio2.1.7ddc4c9dfc84f2aac40c.mp3",
+    "static/media/audio3.1.mp3": "/cambridge-14/static/media/audio3.1.7ddc4c9dfc84f2aac40c.mp3",
+    "static/media/audio1.1.mp3": "/cambridge-14/static/media/audio1.1.aff00be2e1aa7a82d958.mp3",
+    "static/media/audio4.1.mp3": "/cambridge-14/static/media/audio4.1.1d24583b9ee61b89eeb2.mp3",
+    "static/media/audio3.4.mp3": "/cambridge-14/static/media/audio3.4.24bfd80c8cad969057ea.mp3",
+    "static/media/audio1.4.mp3": "/cambridge-14/static/media/audio1.4.7282639841e86d6dabdb.mp3",
+    "static/media/audio4.3.mp3": "/cambridge-14/static/media/audio4.3.c4cf72bf4c26f8c6ad47.mp3",
+    "static/media/audio2.3.mp3": "/cambridge-14/static/media/audio2.3.9a189a2dcc3a7d31f190.mp3",
+    "static/media/audio2.2.mp3": "/cambridge-14/static/media/audio2.2.d3e9ea8229a453d1a1f1.mp3",
+    "static/media/audio4.2.mp3": "/cambridge-14/static/media/audio4.2.24b7aec6b0fb1d72129a.mp3",
+    "static/media/audio1.3.mp3": "/cambridge-14/static/media/audio1.3.f25a8a6404e843d5477a.mp3",
+    "static/media/audio1.2.mp3": "/cambridge-14/static/media/audio1.2.fefca4557e47bac08548.mp3",
+    "static/media/audio3.2.mp3": "/cambridge-14/static/media/audio3.2.c82857147bdfc9519a12.mp3",
+    "static/media/audio3.3.mp3": "/cambridge-14/static/media/audio3.3.7923605664fbad31b26f.mp3",
+    "static/media/sect4.png": "/cambridge-14/static/media/sect4.c56b136b8fa919663457.png",
+    "static/media/section1ms.png": "/cambridge-14/static/media/section1ms.501cbedb0a7928484fa2.png",
+    "static/media/sect2.png": "/cambridge-14/static/media/sect2.497cef5cf56c219ead3d.png",
+    "static/media/sect3.png": "/cambridge-14/static/media/sect3.ba4c13a3845e318d8e51.png",
+    "static/media/map2.1.png": "/cambridge-14/static/media/map2.1.d3c0e6c3ddcb000c3f59.png",
+    "index.html": "/cambridge-14/index.html",
+    "main.cc3788b2.css.map": "/cambridge-14/static/css/main.cc3788b2.css.map",
+    "main.dfb11f08.js.map": "/cambridge-14/static/js/main.dfb11f08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc3788b2.css",
+    "static/js/main.dfb11f08.js"
+  ]
+}
